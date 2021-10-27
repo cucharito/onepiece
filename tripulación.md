@@ -3,7 +3,7 @@
 * Sanji
 * Zoro
 * Chopper
-* Ussop
+* Usopp
 * Franky
 * Nami
 * Robin
