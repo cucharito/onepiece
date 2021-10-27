@@ -1,0 +1,4 @@
+# Tripulación
+* Luffy
+* Sanji
+* Zoro
