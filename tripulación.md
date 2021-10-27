@@ -2,3 +2,8 @@
 * Luffy
 * Sanji
 * Zoro
+* Chopper
+* Ussop
+* Franky
+* Nami
+* Robin
