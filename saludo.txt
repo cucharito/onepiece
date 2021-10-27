@@ -1,1 +1,10 @@
 hello
+
+
+Más si oasare un extraño enemigo
+
+```bash
+for i in ${1..10}
+  echo ${i}
+done
+```
